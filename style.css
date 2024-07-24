@@ -1,0 +1,32 @@
+html{
+    background: linear-gradient(to right, #ffcece, #cda0a0); width: 90%; height: 90%;
+}
+h1{
+   font-size: 40px; 
+}
+h2{
+   font-size: 20px; 
+}
+h3{
+    font-size: 27px;
+    
+}
+body{
+background-color: rgb(255, 255, 255);
+    padding: 10rem;
+    font-size: 16px;
+}
+img{
+    width: 100%;
+    border-radius: 1rem ;
+   
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+tr{
+    border-bottom: 1px solid rgb(194, 193, 193);
+}
+
