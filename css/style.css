@@ -28,10 +28,8 @@ h3{
         margin: 1rem auto;
         padding: 2rem;
         border-radius: 1rem;
-
     }
 .preparacion{
-    
     background-color: rgba(182, 96, 181, 0.23);
     border-radius: 1rem;
     padding: 1rem;
@@ -44,12 +42,10 @@ img{
     width: 100%;
     border-radius: 1rem ;
     margin-bottom: 1rem;
-   
 }
 p{
     margin: 1rem auto;
 }
-
 table{
     border-collapse: collapse;
     width: 100%;
@@ -62,7 +58,6 @@ hr{
     height: 1px;
     background-color: rgb(208, 208, 208);
 }
-
 li::marker{
     color: brown;
     font-weight: 800;
