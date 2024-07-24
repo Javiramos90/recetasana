@@ -1,0 +1,72 @@
+
+html{
+    background-color: bisque;
+}
+h1{
+   font-size: 40px; 
+}
+h2{
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+   
+    font-size: 20px;
+   color: rgb(114, 42, 165);
+}
+h3{
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: brown;
+    font-size: 27px;   
+}
+.contenedor {
+        background-color:rgb(255, 255, 255) ;
+        width: auto;
+        max-width: 1000px;
+        margin: 1rem auto;
+        padding: 2rem;
+        border-radius: 1rem;
+
+    }
+.preparacion{
+    
+    background-color: rgba(182, 96, 181, 0.23);
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+body{
+    font-size: 16px;
+}
+img{
+    width: 100%;
+    border-radius: 1rem ;
+    margin-bottom: 1rem;
+   
+}
+p{
+    margin: 1rem auto;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+tr{
+    border-bottom: 1px solid rgb(208, 208, 208);
+}
+hr{
+    border: 0;
+    height: 1px;
+    background-color: rgb(208, 208, 208);
+}
+
+li::marker{
+    color: brown;
+    font-weight: 800;
+}
+li{
+    padding: 0.3rem;
+}
