@@ -2,7 +2,10 @@
 html{
     background-color: bisque;
 }
-h1{
+h1{ font-family: "Sevillana", cursive;
+    font-weight: 600;
+    font-style: normal;
+    color: green;
    font-size: 40px; 
 }
 h2{
@@ -16,7 +19,7 @@ h2{
 h3{
     font-family: "Outfit", sans-serif;
     font-optical-sizing: auto;
-    font-weight: weight;
+    font-weight: 600;
     font-style: normal;
     color: brown;
     font-size: 27px;   
@@ -57,7 +60,7 @@ hr{
     border: 0;
     height: 1px;
     background-color: rgb(208, 208, 208);
-}
+} 
 li::marker{
     color: brown;
     font-weight: 800;
